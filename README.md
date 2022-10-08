@@ -1,4 +1,4 @@
-# Welcome to React three fiber Minecraft
+# Welcome to React three fiber minecraft 
 
 This project is just me trying to mimic Minecraft in React.
 How i did it can be seen in this Youtube video:
